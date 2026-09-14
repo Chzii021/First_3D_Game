@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://c1xnfrvoyu6d3"]
+
+[ext_resource type="Script" uid="uid://d1wodf7ihkh0" path="res://scripts/game.gd" id="1_game"]
+
+[node name="SkywardRobot" type="Node3D" unique_id=872207243]
+script = ExtResource("1_game")
+
+[node name="Node3D" type="Node3D" parent="." unique_id=1930603621]
